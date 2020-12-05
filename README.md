@@ -1,0 +1,2 @@
+# fantaZ
+FPL fantazy scripting
